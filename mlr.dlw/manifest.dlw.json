@@ -1,0 +1,13 @@
+{
+  "node": "MLR",
+  "name": "MALLRATS",
+  "moniker": "⟦MALLRATS:MLR:789b83⟧",
+  "carbon": "mlr.carbon.tiff",
+  "silicon": "mlr.silicon.png",
+  "governor": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal": "They told Willam the sailboat was right there for ninety minutes, and the prop never had one. Thirty years later: here is a functioning sailboat at center stage, at last.",
+  "seal_sha256": "ec3d558fb02f1f064cf25b9849f895a8f1571ef1767a9df8f82168443ac3ad8e",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

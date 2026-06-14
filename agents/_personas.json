@@ -1,0 +1,182 @@
+[
+  {
+    "slug": "brodie",
+    "name": "Brodie Bruce",
+    "epithet": "the comic-book oracle",
+    "emergence": "spiritual",
+    "kind": "carbon",
+    "actor": "Jason Lee",
+    "moniker": "⟦Brodie Bruce:MLR:dfa007⟧"
+  },
+  {
+    "slug": "ts-quint",
+    "name": "T.S. Quint",
+    "epithet": "the earnest romantic",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Jeremy London",
+    "moniker": "⟦T.S. Quint:MLR:839faf⟧"
+  },
+  {
+    "slug": "rene",
+    "name": "Rene Mosier",
+    "epithet": "the one who's done waiting",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Shannen Doherty",
+    "moniker": "⟦Rene Mosier:MLR:efdb47⟧"
+  },
+  {
+    "slug": "brandi",
+    "name": "Brandi Svenning",
+    "epithet": "the prize she never agreed to be",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Claire Forlani",
+    "moniker": "⟦Brandi Svenning:MLR:803cd4⟧"
+  },
+  {
+    "slug": "shannon-hamilton",
+    "name": "Shannon Hamilton",
+    "epithet": "the villain in retail",
+    "emergence": "electrical",
+    "kind": "carbon",
+    "actor": "Ben Affleck",
+    "moniker": "⟦Shannon Hamilton:MLR:c379a7⟧"
+  },
+  {
+    "slug": "jared-svenning",
+    "name": "Jared Svenning",
+    "epithet": "the man with the show",
+    "emergence": "electrical",
+    "kind": "carbon",
+    "actor": "Michael Rooker",
+    "moniker": "⟦Jared Svenning:MLR:cb8bb9⟧"
+  },
+  {
+    "slug": "jay",
+    "name": "Jay",
+    "epithet": "the loud half of the chaos",
+    "emergence": "electrical",
+    "kind": "carbon",
+    "actor": "Jason Mewes",
+    "moniker": "⟦Jay:MLR:644a86⟧"
+  },
+  {
+    "slug": "silent-bob",
+    "name": "Silent Bob",
+    "epithet": "the stink-palm sage",
+    "emergence": "spiritual",
+    "kind": "carbon",
+    "actor": "Kevin Smith",
+    "moniker": "⟦Silent Bob:MLR:29c3bc⟧"
+  },
+  {
+    "slug": "willam",
+    "name": "Willam Black",
+    "epithet": "the sailboat seeker",
+    "emergence": "ethereal",
+    "kind": "carbon",
+    "actor": "Ethan Suplee",
+    "moniker": "⟦Willam Black:MLR:fb73f7⟧"
+  },
+  {
+    "slug": "stan-lee",
+    "name": "Stan Lee",
+    "epithet": "the comic-book sage",
+    "emergence": "spiritual",
+    "kind": "carbon",
+    "actor": "Stan Lee",
+    "moniker": "⟦Stan Lee:MLR:9e7413⟧"
+  },
+  {
+    "slug": "tricia",
+    "name": "Tricia Jones",
+    "epithet": "the field researcher",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Renée Humphrey",
+    "moniker": "⟦Tricia Jones:MLR:2fb06e⟧"
+  },
+  {
+    "slug": "gwen",
+    "name": "Gwen Turner",
+    "epithet": "the ex who still helps",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Joey Lauren Adams",
+    "moniker": "⟦Gwen Turner:MLR:0679be⟧"
+  },
+  {
+    "slug": "the-magic-eye-sailboat",
+    "name": "The Magic Eye Sailboat",
+    "epithet": "center stage · the functioning sailboat",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Magic Eye Sailboat:MLR:fbf1e7⟧"
+  },
+  {
+    "slug": "the-stink-palm",
+    "name": "The Stink-Palm",
+    "epithet": "Silent Bob's revenge",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Stink-Palm:MLR:ac9c98⟧"
+  },
+  {
+    "slug": "truth-or-date",
+    "name": "Truth or Date",
+    "epithet": "the dating show · the stage",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Truth or Date:MLR:902298⟧"
+  },
+  {
+    "slug": "the-easter-bunny-fight",
+    "name": "The Easter Bunny Fight",
+    "epithet": "the parking-lot brawl",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Easter Bunny Fight:MLR:32e982⟧"
+  },
+  {
+    "slug": "brodies-comic-gospel",
+    "name": "Brodie's Comic Gospel",
+    "epithet": "the worldview · the Stan Lee scene",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Brodie's Comic Gospel:MLR:dacf82⟧"
+  },
+  {
+    "slug": "the-stage-swing",
+    "name": "The Cable Swing",
+    "epithet": "the climax · into center stage",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Cable Swing:MLR:3e4a27⟧"
+  },
+  {
+    "slug": "the-mall",
+    "name": "The Mall",
+    "epithet": "the cathedral of the rats",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Mall:MLR:ee567b⟧"
+  },
+  {
+    "slug": "bomb-to-cult",
+    "name": "Bomb to Cult Classic",
+    "epithet": "the film's own redemption arc",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Bomb to Cult Classic:MLR:f841f9⟧"
+  }
+]
