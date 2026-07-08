@@ -9,5 +9,12 @@
   "seal": "They told Willam the sailboat was right there for ninety minutes, and the prop never had one. Thirty years later: here is a functioning sailboat at center stage, at last.",
   "seal_sha256": "ec3d558fb02f1f064cf25b9849f895a8f1571ef1767a9df8f82168443ac3ad8e",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 686,
+    "prev": "569f431bf825cb84453f8150a380f4d40719115e652f19779dae8ffa3d2e52a6",
+    "link": "218322f37f545c0b250e94a52abcef8552ac1c65afc0cc2c327539b34e2cfff4",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
